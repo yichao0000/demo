@@ -15,6 +15,8 @@ public class Test {
 			System.out.println(st1);
 			
 			System.out.println("test");
+			
+			System.out.println("test2");
 		/*
 		 * string += "hello";
 		 * 的过程相当于将原有的string变量指向的对象内容取出与"java"作字符串相加操作再存进另一个新的String对象当中，
